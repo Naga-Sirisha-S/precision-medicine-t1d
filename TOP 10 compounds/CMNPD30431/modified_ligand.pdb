@@ -1,0 +1,113 @@
+REMARK LIGPARGEN GENERATED PDB FILE
+ATOM      1  C00 UNL     1      18.655  14.227 -10.653
+ATOM      2  C01 UNL     1      17.925  13.179 -11.506
+ATOM      3  C02 UNL     1      18.437  11.739 -11.251
+ATOM      4  C03 UNL     1      18.065  13.532 -12.991
+ATOM      5  C04 UNL     1      19.675  11.675 -10.310
+ATOM      6  N05 UNL     1      20.743  10.884 -10.936
+ATOM      7  C06 UNL     1      19.350  11.096  -8.948
+ATOM      8  H07 UNL     1      20.766  10.747 -11.973
+ATOM      9  C08 UNL     1      21.825  10.341 -10.171
+ATOM     10  O09 UNL     1      18.231  11.301  -8.408
+ATOM     11  N0A UNL     1      20.369  10.388  -8.229
+ATOM     12  O0B UNL     1      22.854   9.917 -10.759
+ATOM     13  C0C UNL     1      21.749  10.337  -8.669
+ATOM     14  C0D UNL     1      20.105   9.557  -7.066
+ATOM     15  C0E UNL     1      22.326   9.070  -8.035
+ATOM     16  N0F UNL     1      19.904  10.400  -5.892
+ATOM     17  C0G UNL     1      21.429   8.752  -6.813
+ATOM     18  H0H UNL     1      19.112  11.072  -5.760
+ATOM     19  C0I UNL     1      21.051  10.325  -5.080
+ATOM     20  C0J UNL     1      21.965   9.432  -5.568
+ATOM     21  C0K UNL     1      21.148   7.202  -6.617
+ATOM     22  C0M UNL     1      21.330  11.150  -3.990
+ATOM     23  C0N UNL     1      23.253   9.381  -5.017
+ATOM     24  C0O UNL     1      21.508   6.680  -5.199
+ATOM     25  C0P UNL     1      19.627   6.858  -6.797
+ATOM     26  C0Q UNL     1      21.790   6.336  -7.683
+ATOM     27  C0R UNL     1      22.592  11.053  -3.388
+ATOM     28  C0S UNL     1      23.540  10.164  -3.887
+ATOM     29  C0T UNL     1      20.409   5.685  -4.823
+ATOM     30  N0U UNL     1      19.275   6.033  -5.654
+ATOM     31  N0V UNL     1      19.524   6.076  -8.026
+ATOM     32  C0W UNL     1      23.132   5.957  -7.824
+ATOM     33  C0X UNL     1      20.827   5.756  -8.469
+ATOM     34  C0Y UNL     1      20.037   5.724  -3.369
+ATOM     35  C0Z UNL     1      17.930   5.677  -5.315
+ATOM     36  H10 UNL     1      18.639   5.681  -8.418
+ATOM     37  C11 UNL     1      23.481   5.062  -8.849
+ATOM     38  C12 UNL     1      21.142   4.850  -9.483
+ATOM     39  O13 UNL     1      20.934   5.849  -2.491
+ATOM     40  N14 UNL     1      18.673   5.541  -2.971
+ATOM     41  O15 UNL     1      17.035   5.698  -6.201
+ATOM     42  C16 UNL     1      17.585   5.275  -3.900
+ATOM     43  C17 UNL     1      22.487   4.518  -9.683
+ATOM     44  H18 UNL     1      18.484   5.424  -1.950
+ATOM     45  C19 UNL     1      16.298   5.974  -3.411
+ATOM     46  C1A UNL     1      15.482   5.117  -2.470
+ATOM     47  C1B UNL     1      14.692   5.710  -1.467
+ATOM     48  C1C UNL     1      15.505   3.717  -2.586
+ATOM     49  C1D UNL     1      13.942   4.914  -0.599
+ATOM     50  C1E UNL     1      14.753   2.923  -1.716
+ATOM     51  C1F UNL     1      13.971   3.522  -0.722
+TER 
+CONECT    1    2 
+CONECT    2    3 
+CONECT    2    4 
+CONECT    3    5 
+CONECT    5    6 
+CONECT    5    7 
+CONECT    6    8 
+CONECT    6    9 
+CONECT    7   10 
+CONECT    7   11 
+CONECT    9   12 
+CONECT    9   13 
+CONECT   11   14 
+CONECT   13   15 
+CONECT   14   16 
+CONECT   14   17 
+CONECT   16   18 
+CONECT   16   19 
+CONECT   17   20 
+CONECT   17   21 
+CONECT   19   22 
+CONECT   20   23 
+CONECT   21   24 
+CONECT   21   25 
+CONECT   21   26 
+CONECT   22   27 
+CONECT   23   28 
+CONECT   24   29 
+CONECT   25   30 
+CONECT   25   31 
+CONECT   26   32 
+CONECT   26   33 
+CONECT   29   34 
+CONECT   30   35 
+CONECT   31   36 
+CONECT   32   37 
+CONECT   33   38 
+CONECT   34   39 
+CONECT   34   40 
+CONECT   35   41 
+CONECT   35   42 
+CONECT   37   43 
+CONECT   40   44 
+CONECT   42   45 
+CONECT   45   46 
+CONECT   46   47 
+CONECT   46   48 
+CONECT   47   49 
+CONECT   48   50 
+CONECT   49   51 
+CONECT   11   13 
+CONECT   15   17 
+CONECT   19   20 
+CONECT   27   28 
+CONECT   29   30 
+CONECT   31   33 
+CONECT   38   43 
+CONECT   40   42 
+CONECT   50   51 
+END
