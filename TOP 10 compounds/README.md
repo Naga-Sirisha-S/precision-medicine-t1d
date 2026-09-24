@@ -1,1 +1,11 @@
-
+The top 10 compounds were predominantly derived from the genus Aspergillus
+1- CMNPD30430
+2- CMNPD23396
+3- CMNPD30428
+4- CMNPD8781
+5- CMNPD28757
+6- CMNPD22201
+7- CMNPD30431
+8- CMNPD19768
+9- CMNPD30390
+10- CMNPD23395
