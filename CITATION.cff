@@ -1,1 +1,8 @@
-
+cff-version: 1.2.0
+message: "please cite this repository."
+title: "Precision Medicine T1D"
+authors:
+  - family-names: "Sribhashyam"
+    given-names: "Naga Sirisha"
+date-released: "2026-09-25"
+repository-code: "https://github.com/Naga-Sirisha-S/precision-medicine-t1d.git"
