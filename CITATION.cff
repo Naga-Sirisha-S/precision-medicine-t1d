@@ -5,4 +5,6 @@ authors:
   - family-names: "Sribhashyam"
     given-names: "Naga Sirisha"
 date-released: "2026-09-25"
-repository-code: "https://github.com/Naga-Sirisha-S/precision-medicine-t1d.git"
+version: 1.0.0
+DOI: "10.5281/zenodo.22958253"
+url: "https://github.com/Naga-Sirisha-S/precision-medicine-t1d.git"
